@@ -15,7 +15,7 @@ I'm currently learning to write automated tests in Playwright using javascript.
 * Test Scenarios 
   * [Test scenario for shopping cart in TestLink](https://1drv.ms/b/s!AlA72r776nl1hcsUlk89tHeAijhPaQ?e=6qnJEM)
   
-  ## Tools
+ ## Tools
   * Postman
   * SOAP
   * SQL Managment Studio
@@ -23,3 +23,14 @@ I'm currently learning to write automated tests in Playwright using javascript.
   * Chrome DevTools
   * JIRA
   * TestLink
+
+ ## Certificates
+  * ISTQB - No. 77217
+
+ ##Courses: 
+  * "GIT od podstaw dla każdego" Adrian Szuszkiewicz, Udemy
+  * "Konsola Deweloperska Szkolenie dla QA", SZKOLENIEDLAQA.PL
+  * "Praktyczny kurs testera oprogramowania - QA" Rafał Podraza, Udemy
+  (the tools learned in the course: jMeter and BrowserStack)
+  * "OWASP top 10 Web Application Security for Absolute Beginners", Udemy
+  * in progress: "Praktyczne wprowadzenie do testów automatycznych z Playwright", jaktestowac.pl
