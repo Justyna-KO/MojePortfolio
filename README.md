@@ -27,7 +27,7 @@ I'm currently learning to write automated tests in Playwright using javascript.
  ## Certificates
   * ISTQB - No. 77217
 
- ##Courses: 
+ ## Courses: 
   * "GIT od podstaw dla każdego" Adrian Szuszkiewicz, Udemy
   * "Konsola Deweloperska Szkolenie dla QA", SZKOLENIEDLAQA.PL
   * "Praktyczny kurs testera oprogramowania - QA" Rafał Podraza, Udemy
