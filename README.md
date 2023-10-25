@@ -2,10 +2,10 @@
 
 ## About me
 Hi! My name is Justyna Kowalska. I am a Certified Software Tester.
-My greatest experience is testing desktop and web applications for the public sector. 
+My longest experience is in testing web ans desktop applications for the public sector. 
 I am oriented for further development as a Quality Assurance Specialist. 
 On this page I would like to share the experience I have gained from self-study and previous projects.
-I'm currently learning to write automated tests in Playwright using javascript. 
+I'm currently learning to write automated tests in Playwright using typescript. 
 
 ## My Test Documentation
 * Bug Reports
