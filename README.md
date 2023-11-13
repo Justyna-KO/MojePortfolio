@@ -2,7 +2,7 @@
 
 ## About me
 Hi! My name is Justyna Kowalska. I am a Certified Software Tester.
-My longest experience is in testing web ans desktop applications for the public sector. 
+My longest experience is in testing web and desktop applications for the public sector. 
 I am oriented for further development as a Quality Assurance Specialist. 
 On this page I would like to share the experience I have gained from self-study and previous projects.
 I'm currently learning to write automated tests in Playwright using typescript. 
@@ -27,7 +27,7 @@ I'm currently learning to write automated tests in Playwright using typescript.
  ## Certificates
   * ISTQB - No. 77217
 
- ## Courses: 
+ ## Courses 
   * "GIT od podstaw dla każdego" Adrian Szuszkiewicz, Udemy
   * "Konsola Deweloperska Szkolenie dla QA", SZKOLENIEDLAQA.PL
   * "Praktyczny kurs testera oprogramowania - QA" Rafał Podraza, Udemy
