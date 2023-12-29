@@ -14,6 +14,8 @@ I'm currently learning to write automated tests in Playwright using typescript.
   * [Test cases for shopping cart](https://1drv.ms/b/s!AlA72r776nl1hcsVb9TyRxB4ewbLbw?e=0DqhqW)
 * Test Scenarios 
   * [Test scenario for shopping cart in TestLink](https://1drv.ms/b/s!AlA72r776nl1hcsUlk89tHeAijhPaQ?e=6qnJEM)
+* API tests in Playwright
+  * [Playwright API testing](https://github.com/Justyna-KO/Playwright_API_Testing)
   
  ## Tools
   * Postman
