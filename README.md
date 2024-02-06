@@ -15,7 +15,7 @@ I'm currently learning to write automated tests in Playwright using typescript.
 * Test Scenarios 
   * [Test scenario for shopping cart in TestLink](https://1drv.ms/b/s!AlA72r776nl1hcsUlk89tHeAijhPaQ?e=6qnJEM)
 * Collection in Postman
-  * [CRUD operations for Trello board (https://github.com/Justyna-KO/Portfolio/blob/main/Postman/TRELLO_collection.json)]
+  * [CRUD operations for Trello board] (https://github.com/Justyna-KO/Portfolio/blob/main/Postman/TRELLO_collection.json)
 * API tests in Playwright
   * [Playwright API testing](https://github.com/Justyna-KO/Playwright_API_Testing)
   
