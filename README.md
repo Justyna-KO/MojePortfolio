@@ -38,9 +38,9 @@ I'm currently learning to write automated tests in Playwright using typescript.
   * "Praktyczny kurs testera oprogramowania - QA" Rafał Podraza, Udemy
   (the tools learned in the course: jMeter and BrowserStack)
   * "OWASP top 10 Web Application Security for Absolute Beginners", Udemy
-  * "Kurs javascript od podstaw" Rafał Podraza, Udemy
+  * "Praktyczne wprowadzenie do testów automatycznych z Playwright", jaktestowac.pl
+  * in progress: "Kurs javascript od podstaw" Rafał Podraza, Udemy
 
   ## Group projects
   * Odessa (http://cherry-it.pl/archiwum-projektu-odessa/)
   * KawQA-gad-Playwright (https://github.com/kat-kan/kawqa-gad-playwright)
-  * in progress: "Praktyczne wprowadzenie do testów automatycznych z Playwright", jaktestowac.pl
